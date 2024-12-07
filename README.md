@@ -1,4 +1,4 @@
-Application is dedicated for Car damamge parts detection using different Models for comparison
+Our application is dedicated to detect which parts of the car are damaged
 
 1-MobileNetv2 
 
