@@ -83,7 +83,7 @@ We used a publicly available dataset from Kaggle for training and evaluation:
 ### 📋 Prerequisites
 Make sure you have the following installed:
 
-- Python 3.8 or higher
+- Python
 - Git
 - Jupyter Notebook or JupyterLab
 - A modern GPU (recommended for training)
