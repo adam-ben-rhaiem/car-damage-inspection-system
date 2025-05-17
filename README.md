@@ -17,7 +17,7 @@ This application is designed to **automatically detect car damage** and classify
 
 We used a publicly available dataset from Kaggle for training and evaluation:
 
-🔗 [Car Damage Assessment Dataset (Kaggle)](https://www.kaggle.com/code/hamzamanssor/car-damage-assessment-classify-using-mobilenetv2)
+🔗 [Car Damage Assessment Dataset (Kaggle)](https://www.kaggle.com/datasets/hamzamanssor/car-damage-assessment)
 
 ---
 
