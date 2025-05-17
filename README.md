@@ -96,8 +96,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/adam-ben-rhaiem/car-damage-inspection-system.git
 cd car-damage-inspection-system
-
-
-
----
-
