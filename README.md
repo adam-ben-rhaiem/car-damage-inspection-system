@@ -77,14 +77,18 @@ We used a publicly available dataset from Kaggle for training and evaluation:
 - Integration with mobile applications (real-time damage detection)
 - Bounding box prediction for object localization
 - Multi-label classification for complex damage scenarios
+- 
+## 🛠️ Getting Started
 
-## 🚀 Getting Started
-
-### 📦 Prerequisites
+### 📋 Prerequisites
 Make sure you have the following installed:
 
-- Jupyter Notebook
-
+- Python 3.8 or higher
+- Git
+- Jupyter Notebook or JupyterLab
+- A modern GPU (recommended for training)
+- pip or conda for package management
+  
 ### 🧰 Installation
 
 Clone the repository:
