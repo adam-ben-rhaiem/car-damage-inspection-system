@@ -3,9 +3,9 @@
 ## Overview
 Our application is dedicated to detect which parts of the car are damaged
 
-1-MobileNetv2 
-2-VGG16 
-3-CNN from Scratch
+1- MobileNetv2 
+2- VGG16 
+3- CNN from Scratch
 
 ## Dataset
 https://www.kaggle.com/code/hamzamanssor/car-damage-assessment-classify-using-mobilenetv2
