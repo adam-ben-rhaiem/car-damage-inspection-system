@@ -73,20 +73,27 @@ We used a publicly available dataset from Kaggle for training and evaluation:
 ![Custom CNN Test](https://github.com/user-attachments/assets/2ab379ef-3840-4f62-8586-f22b04ecfa78)
 
 ---
-
 ## 🚀 Future Work
 - Integration with mobile applications (real-time damage detection)
 - Bounding box prediction for object localization
 - Multi-label classification for complex damage scenarios
 
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+Make sure you have the following installed:
+
+- Jupyter Notebook
+
+### 🧰 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/adam-ben-rhaiem/car-damage-inspection-system.git
+cd car-damage-inspection-system
+
+
+
 ---
-
-## 📬 Contact
-For questions, contributions, or collaborations:
-
-**Ils — Data Scientist & AI Developer**  
-📧 Email: [your-email@example.com]  
-🌐 GitHub: [your-github-profile-link]
-
-
 
